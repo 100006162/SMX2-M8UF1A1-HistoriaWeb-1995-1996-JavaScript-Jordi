@@ -11,5 +11,5 @@ JavaScript principalmente se utiliza para crear efectos y animaciones, también 
 
 
 **Lugares de interes de información:**  
-1- []()  
-2- []()
+1- [¿Qué es JavaScript? Historia 🟨 Explicación Animada](https://www.youtube.com/watch?v=NmaHJxanMcA)  
+2- [Wikipedia JavaScript](https://es.wikipedia.org/wiki/JavaScript)
